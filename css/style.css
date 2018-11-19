@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 html, body {
   height: 100%;
@@ -25,8 +25,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Indie FLower', cursive;
+  color: #FF5733;
 }
 
 h1 {
